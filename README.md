@@ -5,8 +5,11 @@ This project explores and analyzes movie data from various sources to gain insig
 
 Movie-Rating-Analysis/
 ├── MovieRatingAnalysis.ipynb      # Python analysis in Jupyter Notebook
+
 ├── movieReviewAnalysis.sql        # SQL queries for analyzing movie reviews
+
 ├── movies.csv                     # Main dataset (may be large so add some data)
+
 └── README.md                      # Project documentation
 
 🧠 Objectives
