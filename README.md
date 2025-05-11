@@ -4,6 +4,7 @@ This project explores and analyzes movie data from various sources to gain insig
 📁 Project Structure
 
 Movie-Rating-Analysis/
+
 ├── MovieRatingAnalysis.ipynb      # Python analysis in Jupyter Notebook
 
 ├── movieReviewAnalysis.sql        # SQL queries for analyzing movie reviews
