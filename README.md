@@ -38,7 +38,7 @@ Movie-Rating-Analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Movie-Rating-Analysis.git
+   git clone https://github.com/singhshaab-ankit/Movie-Rating-Analysis.git
    ```
 2. Open the Jupyter Notebook:
    ```bash
@@ -50,3 +50,7 @@ Movie-Rating-Analysis/
 
 - The CSV files may be large (over 25MB), so upload them using Git or Git LFS, not the GitHub web interface.
 - The project is intended for data analysis practice and educational use.
+
+📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
